@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"客服话术专家：高频场景话术库生成 + 差评管理（review-care）+ 话术自查","name":"lhg-cs-script","source":"./"}]}
